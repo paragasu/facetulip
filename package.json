@@ -1,8 +1,0 @@
-{
-  "nativescript": {
-    "id": "org.nativescript.facetulip"
-  },
-  "dependencies": {
-    "tns-core-modules": "1.5.1"
-  }
-}
